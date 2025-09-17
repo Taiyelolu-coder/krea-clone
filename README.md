@@ -30,10 +30,10 @@ An interactive **Next.js + Tailwind CSS** project showcasing cloned AI-powered c
 ```
 /project-root
 ├── components/       # Reusable UI components
-│   ├── Navbar.jsx    # Krea AI logo, profile avatar placeholder, center action bar, etc
-│   ├── Hero.jsx      # Hero section with Swiper
-|   ├── GenerateTools.jsx # Tools grid with animations
-|   ├── Footer.jsx    # Krea AI logo and Mobbin logo
+│   ├── Navbar.tsx    # Krea AI logo, profile avatar placeholder, center action bar, etc
+│   ├── Hero.tsx      # Hero section with Swiper
+|   ├── GenerateTools.tsx # Tools grid with animations
+|   ├── Footer.tsx    # Krea AI logo and Mobbin logo
 ├── public/images/    # Project images (slides, assets)
 ├── package.json      # Dependencies & scripts
 └── README.md         # Project documentation
